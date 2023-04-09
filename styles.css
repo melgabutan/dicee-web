@@ -1,0 +1,33 @@
+body {
+  background-color: #393e46;
+  color: #4ecca3;
+  font-family: "Indie Flower", cursive;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Lobster", cursive;
+  font-size: 8rem;
+  margin: 50px;
+}
+
+h2 {
+  font-size: 2rem;
+  margin: 0;
+}
+
+p {
+  color: #eeeeee;
+  margin-top: 5%;
+}
+
+.dice {
+  cursor: pointer;
+  margin-top: 12%;
+  width: 80%;
+}
+
+.player-container {
+  display: inline-block;
+}
